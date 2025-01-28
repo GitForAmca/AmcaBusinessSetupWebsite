@@ -252,6 +252,7 @@
 
     $(document).ready(function () {
 
+        getSubService();
         window.addEventListener('popstate', function (event) {
             location.reload();
 
@@ -288,6 +289,7 @@
         });
     });
 
+    // Get subservice click on service dropdown
     $(document).ready(function () {
         $("#serviceId").change(function () {
             $.get("/Page/GetSubServices", { Id: $("#serviceId").val() }, function (data) {
@@ -300,4 +302,17 @@
             });
         })
     }); 
+
+    // Get subservice automaticall after wrong capcha error
+    function getSubService() {
+        $.get("/Page/GetSubServices", { Id: $("#serviceId").val() }, function (data) {
+            var jsondata = JSON.parse(data);
+            $("#subServiceId").empty();
+            $("#subServiceId").append("<option value=''>Select Sub Service</option>");
+            $.each(jsondata, function (index, row) {
+                $("#subServiceId").append("<option value='" + row.Id + "'>" + row.Name + "</option>");
+            });
+        });
+    }
+
 </script>
