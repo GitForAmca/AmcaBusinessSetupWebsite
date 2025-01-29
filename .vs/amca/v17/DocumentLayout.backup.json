@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\Mohd Owais Ansari\\Git Websites\\AmcaAe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D84E55C2-0125-40ED-B2AA-06E7F9FA770A}|amca\\amca.csproj|d:\\mohd owais ansari\\git websites\\amcaae\\amca\\views\\services\\varaservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D84E55C2-0125-40ED-B2AA-06E7F9FA770A}|amca\\amca.csproj|solutionrelative:amca\\views\\services\\varaservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D84E55C2-0125-40ED-B2AA-06E7F9FA770A}|amca\\amca.csproj|d:\\mohd owais ansari\\git websites\\amcaae\\amca\\controllers\\experiencedcareerrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84E55C2-0125-40ED-B2AA-06E7F9FA770A}|amca\\amca.csproj|solutionrelative:amca\\controllers\\experiencedcareerrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D84E55C2-0125-40ED-B2AA-06E7F9FA770A}|amca\\amca.csproj|D:\\Mohd Owais Ansari\\Git Websites\\AmcaAe\\amca\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D84E55C2-0125-40ED-B2AA-06E7F9FA770A}|amca\\amca.csproj|solutionrelative:amca\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D84E55C2-0125-40ED-B2AA-06E7F9FA770A}|amca\\amca.csproj|D:\\Mohd Owais Ansari\\Git Websites\\AmcaAe\\amca\\views\\sidebar\\regulatorycompliancereportingsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D84E55C2-0125-40ED-B2AA-06E7F9FA770A}|amca\\amca.csproj|solutionrelative:amca\\views\\sidebar\\regulatorycompliancereportingsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D84E55C2-0125-40ED-B2AA-06E7F9FA770A}|amca\\amca.csproj|D:\\Mohd Owais Ansari\\Git Websites\\AmcaAe\\amca\\views\\services\\ultimatebeneficialowner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D84E55C2-0125-40ED-B2AA-06E7F9FA770A}|amca\\amca.csproj|solutionrelative:amca\\views\\services\\ultimatebeneficialowner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D84E55C2-0125-40ED-B2AA-06E7F9FA770A}|amca\\amca.csproj|D:\\Mohd Owais Ansari\\Git Websites\\AmcaAe\\amca\\views\\experiencedcareerroles\\applyjobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D84E55C2-0125-40ED-B2AA-06E7F9FA770A}|amca\\amca.csproj|solutionrelative:amca\\views\\experiencedcareerroles\\applyjobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,52 +42,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UltimateBeneficialOwner.cshtml",
-              "DocumentMoniker": "D:\\Mohd Owais Ansari\\Git Websites\\AmcaAe\\amca\\Views\\Services\\UltimateBeneficialOwner.cshtml",
-              "RelativeDocumentMoniker": "amca\\Views\\Services\\UltimateBeneficialOwner.cshtml",
-              "ToolTip": "D:\\Mohd Owais Ansari\\Git Websites\\AmcaAe\\amca\\Views\\Services\\UltimateBeneficialOwner.cshtml",
-              "RelativeToolTip": "amca\\Views\\Services\\UltimateBeneficialOwner.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAEwFsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T12:12:50.522Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegulatoryComplianceReportingSidebar.cshtml",
-              "DocumentMoniker": "D:\\Mohd Owais Ansari\\Git Websites\\AmcaAe\\amca\\Views\\Sidebar\\RegulatoryComplianceReportingSidebar.cshtml",
-              "RelativeDocumentMoniker": "amca\\Views\\Sidebar\\RegulatoryComplianceReportingSidebar.cshtml",
-              "ToolTip": "D:\\Mohd Owais Ansari\\Git Websites\\AmcaAe\\amca\\Views\\Sidebar\\RegulatoryComplianceReportingSidebar.cshtml",
-              "RelativeToolTip": "amca\\Views\\Sidebar\\RegulatoryComplianceReportingSidebar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T12:09:12.611Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VARAService.cshtml",
-              "DocumentMoniker": "D:\\Mohd Owais Ansari\\Git Websites\\AmcaAe\\amca\\Views\\Services\\VARAService.cshtml",
-              "RelativeDocumentMoniker": "amca\\Views\\Services\\VARAService.cshtml",
-              "ToolTip": "D:\\Mohd Owais Ansari\\Git Websites\\AmcaAe\\amca\\Views\\Services\\VARAService.cshtml",
-              "RelativeToolTip": "amca\\Views\\Services\\VARAService.cshtml",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAAAHMAAAB2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T12:07:55.118Z",
+              "Title": "ExperiencedCareerRolesController.cs",
+              "DocumentMoniker": "D:\\Mohd Owais Ansari\\Git Websites\\AmcaAe\\amca\\Controllers\\ExperiencedCareerRolesController.cs",
+              "RelativeDocumentMoniker": "amca\\Controllers\\ExperiencedCareerRolesController.cs",
+              "ToolTip": "D:\\Mohd Owais Ansari\\Git Websites\\AmcaAe\\amca\\Controllers\\ExperiencedCareerRolesController.cs",
+              "RelativeToolTip": "amca\\Controllers\\ExperiencedCareerRolesController.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAAAiwDQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:38:01.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ServicesController.cs",
-              "DocumentMoniker": "D:\\Mohd Owais Ansari\\Git Websites\\AmcaAe\\amca\\Controllers\\ServicesController.cs",
-              "RelativeDocumentMoniker": "amca\\Controllers\\ServicesController.cs",
-              "ToolTip": "D:\\Mohd Owais Ansari\\Git Websites\\AmcaAe\\amca\\Controllers\\ServicesController.cs",
-              "RelativeToolTip": "amca\\Controllers\\ServicesController.cs",
-              "ViewState": "AgIAANUBAAAAAAAAAAAAAO4BAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T06:50:24.72Z"
+              "Title": "ApplyJobs.cshtml",
+              "DocumentMoniker": "D:\\Mohd Owais Ansari\\Git Websites\\AmcaAe\\amca\\Views\\ExperiencedCareerRoles\\ApplyJobs.cshtml",
+              "RelativeDocumentMoniker": "amca\\Views\\ExperiencedCareerRoles\\ApplyJobs.cshtml",
+              "ToolTip": "D:\\Mohd Owais Ansari\\Git Websites\\AmcaAe\\amca\\Views\\ExperiencedCareerRoles\\ApplyJobs.cshtml",
+              "RelativeToolTip": "amca\\Views\\ExperiencedCareerRoles\\ApplyJobs.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAEwCsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T10:37:56.507Z",
+              "EditorCaption": ""
             }
           ]
         }
