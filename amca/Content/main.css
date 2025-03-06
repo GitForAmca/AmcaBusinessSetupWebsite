@@ -374,7 +374,7 @@ h1, h2, h3, h4, h5, h6 {
       display: flex;
       transition: all 0.2s ease-in-out; }
       .topHeader .rightTop .topNav .frstLst {
-        width: 40%; }
+        width: 45%; }
         .topHeader .rightTop .topNav .frstLst ul.socialIcons {
           float: right; }
         .topHeader .rightTop .topNav .frstLst ul.socialIcons li {
