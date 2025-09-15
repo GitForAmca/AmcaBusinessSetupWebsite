@@ -41,5 +41,10 @@ namespace amca.Models
         public string Emirate { get; set; }
 
         public string  LeadDataType { get; set; }
+        public string UTMSource { get; set; }
+        public string UTMMedium { get; set; }
+        public string UTMCampaign { get; set; }
+        public string UTMTerm { get; set; }
+        public string UTMContent { get; set; }
     }
 }
