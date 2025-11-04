@@ -9,7 +9,7 @@ using System.Web;
 namespace amca.BusinessLogic
 {
     public class Insight
-    {
+    { 
 
 
         public DataSet GetBlogsByID(int? BlogID=null, string BlogTitle= null, string ServiceModels = null)
