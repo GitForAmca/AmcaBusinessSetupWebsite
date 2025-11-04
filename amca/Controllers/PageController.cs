@@ -381,7 +381,7 @@ namespace amca.Controllers
         {
             return ContactUsInsert();
         }
-        [Route("about-us")]
+        [Route("about-us")] 
         public ActionResult AboutUs()
         {
             return View();
