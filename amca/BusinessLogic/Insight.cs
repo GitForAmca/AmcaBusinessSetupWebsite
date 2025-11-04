@@ -17,7 +17,7 @@ namespace amca.BusinessLogic
                 SQLConnectivity SC = new SQLConnectivity();
                 SqlCommand sqlCmd = new SqlCommand("dbo.BlogData_sl", SC.SqlCon);
                 sqlCmd.CommandType = CommandType.StoredProcedure;
-                sqlCmd.Parameters.AddWithValue("BlogID", BlogID);
+                sqlCmd.Parameters.AddWithValue("BlogID", BlogID); 
                 sqlCmd.Parameters.AddWithValue("BlogTitle", BlogTitle);
                 sqlCmd.Parameters.AddWithValue("websiteID", 1);
                 sqlCmd.Parameters.AddWithValue("ServiceModels", ServiceModels);
