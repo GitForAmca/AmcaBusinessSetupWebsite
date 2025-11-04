@@ -285,7 +285,7 @@ namespace amca.Controllers
             return View();
         }
         [Route("pro-assistant-jobs-in-dubai")]
-        public ActionResult PROAssistant()
+        public ActionResult PROAssistant() 
         {
             return View();
         } 
